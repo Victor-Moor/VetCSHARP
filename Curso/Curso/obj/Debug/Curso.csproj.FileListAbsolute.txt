@@ -1,0 +1,3 @@
+C:\Users\victo\source\repos\Victor-Moor\VetCSHARP\Curso\Curso\obj\Debug\Curso.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\Victor-Moor\VetCSHARP\Curso\Curso\obj\Debug\Curso.csproj.SuggestedBindingRedirects.cache
+C:\Users\victo\source\repos\Victor-Moor\VetCSHARP\Curso\Curso\obj\Debug\Curso.csproj.CoreCompileInputs.cache
